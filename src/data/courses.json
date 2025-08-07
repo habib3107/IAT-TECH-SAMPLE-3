@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Data Science",
+    "description": "Master the art of extracting insights from data with our comprehensive Data Science course covering Python, Machine Learning, Statistics, and more.",
+    "image": "/api/placeholder/400/300",
+    "duration": "6 months",
+    "level": "Beginner to Advanced",
+    "category": "Data Science",
+    "features": ["Python Programming", "Machine Learning", "Statistics", "Data Visualization", "Real Projects"],
+    "placement_rate": "95%"
+  },
+  {
+    "id": 2,
+    "title": "Full Stack Development",
+    "description": "Become a complete web developer with expertise in both frontend and backend technologies including React, Node.js, and databases.",
+    "image": "/api/placeholder/400/300",
+    "duration": "5 months",
+    "level": "Beginner to Advanced",
+    "category": "Development",
+    "features": ["React.js", "Node.js", "MongoDB", "Express.js", "Project Portfolio"],
+    "placement_rate": "92%"
+  },
+  {
+    "id": 3,
+    "title": "Data Analytics",
+    "description": "Learn to analyze and interpret complex data sets using advanced analytics tools and techniques for business intelligence.",
+    "image": "/api/placeholder/400/300",
+    "duration": "4 months",
+    "level": "Beginner to Intermediate",
+    "category": "Data Analytics",
+    "features": ["Excel Advanced", "SQL", "Power BI", "Tableau", "Business Intelligence"],
+    "placement_rate": "90%"
+  },
+  {
+    "id": 4,
+    "title": "Software Testing",
+    "description": "Master manual and automated testing techniques to ensure software quality and reliability across different platforms.",
+    "image": "/api/placeholder/400/300",
+    "duration": "3 months",
+    "level": "Beginner to Advanced",
+    "category": "Testing",
+    "features": ["Manual Testing", "Selenium", "API Testing", "Performance Testing", "Test Automation"],
+    "placement_rate": "88%"
+  },
+  {
+    "id": 5,
+    "title": "Azure DevOps & Data Engineering",
+    "description": "Learn cloud-based development operations and data engineering using Microsoft Azure platform and tools.",
+    "image": "/api/placeholder/400/300",
+    "duration": "5 months",
+    "level": "Intermediate to Advanced",
+    "category": "Cloud",
+    "features": ["Azure Cloud", "DevOps Practices", "Data Pipelines", "CI/CD", "Cloud Architecture"],
+    "placement_rate": "93%"
+  },
+  {
+    "id": 6,
+    "title": "Ethical Hacking / Cyber Security",
+    "description": "Protect digital assets and learn ethical hacking techniques to identify and prevent security vulnerabilities.",
+    "image": "/api/placeholder/400/300",
+    "duration": "4 months",
+    "level": "Intermediate to Advanced",
+    "category": "Security",
+    "features": ["Penetration Testing", "Network Security", "Ethical Hacking", "Security Audits", "Incident Response"],
+    "placement_rate": "91%"
+  }
+]

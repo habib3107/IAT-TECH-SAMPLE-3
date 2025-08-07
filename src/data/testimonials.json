@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Adhithyan",
+    "role": "Data Scientist",
+    "company": "TCS",
+    "image": "/api/placeholder/150/150",
+    "testimonial": "Another remarkable aspect was the placement support provided by IAT Technologies. Their guidance and assistance in resume building, mock interviews helped a lot.",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Gugan S",
+    "role": "Full Stack Developer",
+    "company": "Infosys",
+    "image": "/api/placeholder/150/150",
+    "testimonial": "It is with great pleasure that we extend our warmest greetings to IAT TECHNOLOGIES. Your commitment to excellence in education and innovation is truly inspiring.",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Vishnu K",
+    "role": "Software Engineer",
+    "company": "Wipro",
+    "image": "/api/placeholder/150/150",
+    "testimonial": "The infrastructure is well-equipped, providing a great learning environment. What stood out the most was their interview preparation training.",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "Shankar",
+    "role": "DevOps Engineer",
+    "company": "Cognizant",
+    "image": "/api/placeholder/150/150",
+    "testimonial": "I recently attended the job fair at MGR University, organized by IAT Technologies, and I am happy to share that I received an offer from an IT company with good package.",
+    "rating": 5
+  },
+  {
+    "id": 5,
+    "name": "Parthasarathy",
+    "role": "Python Developer",
+    "company": "Accenture",
+    "image": "/api/placeholder/150/150",
+    "testimonial": "Thanks to IAT Technologies Guindy, I now have a solid understanding of Python and web app development. The course was engaging, and the trainers were fantastic.",
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "name": "Gowsalya Selvaraju",
+    "role": "Data Analyst",
+    "company": "IBM",
+    "image": "/api/placeholder/150/150",
+    "testimonial": "I highly recommend IAT Technologies to anyone looking for top-notch training and placement opportunities in the IT industry. A big thanks to the entire team.",
+    "rating": 5
+  }
+]
